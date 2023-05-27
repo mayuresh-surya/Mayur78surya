@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mayur78surya
+- 👋 Hi, I’m Mayuresh Suryavanshi
 - 👀 I’m interested in Front End Web development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Web Development
