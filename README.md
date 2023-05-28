@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayuresh Suryavanshi
-- 👀 I’m interested in Front End Web development
+- 👀 I’m interested in Front End Web development & Mobile App Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me on twitter & instagram
