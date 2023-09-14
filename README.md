@@ -1,9 +1,9 @@
-<h1 align="left">
-  - 👋 Hi, I’m Mayuresh Suryavanshi
-- 👀 I’m interested in Front End Web development & Mobile App Development
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 Reach me on twitter & instagram</h1>
+<h2 align="left">
+- 👋 Hi, I’m Mayuresh Suryavanshi <br>
+- 👀 I’m interested in Front End Web development & Mobile App Development <br>
+- 🌱 I’m currently learning Computer Science <br>
+- 💞️ I’m looking to collaborate on Web Development <br>
+- 📫 Reach me on Twitter & Instagram</h2>
 
 ###
 
