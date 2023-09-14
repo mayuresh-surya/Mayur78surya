@@ -25,8 +25,6 @@
 
 ###
 
-<img align="right" height="132" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
 
 <div align="left">
